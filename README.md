@@ -20,3 +20,4 @@ This repo contains the keywords which i listen for first time
 10)**HOP COUNT**-> IT IS THE NUMBER OF ROUTERS WHICH ARE OCCURING BETWEEN THE SOURCE AND THE DESTINATION.
 
 11) **OSPF** -> USED TO FIND THE BEST PATH BETWEEN THE SOURCE AND DESTINATION ROUTER USING ITS OWN SHORTEST PATH FIRST. works on protocol number 89 and uses AD value 110.  OSPF uses multicast address 224.0.0.5 for normal communication and 224.0.0.6 for update to designated router(DR)/Backup Designated Router (BDR). 
+12) **DHCP**
